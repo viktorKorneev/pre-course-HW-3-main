@@ -344,4 +344,8 @@ small {
         width: 100%;
         max-width: 940px;
     }
+
+    .account-wrapper {
+        flex-direction: column;
+    }
 }
