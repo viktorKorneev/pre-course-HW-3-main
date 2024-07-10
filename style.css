@@ -348,4 +348,8 @@ small {
     .account-wrapper {
         flex-direction: column;
     }
+
+    .create-account-section .text {
+        max-width: unset;
+    }
 }
