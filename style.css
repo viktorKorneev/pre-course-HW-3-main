@@ -129,6 +129,8 @@ button:hover {
 
 .main-img {
     align-self: flex-end;
+    max-width: 656px;
+    width: 100%;
 }
 
 /* ================ Стили для 2-й секции ================ */
