@@ -352,4 +352,8 @@ small {
     .create-account-section .text {
         max-width: unset;
     }
+
+    form {
+        align-self: center;
+    }
 }
