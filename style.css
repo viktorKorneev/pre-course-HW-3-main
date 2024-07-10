@@ -325,4 +325,12 @@ small {
     .main-wrapper {
         flex-direction: column;
     }
+
+    .main-info {
+        align-self: flex-start;
+    }
+
+    .main-img {
+        align-self: center;
+    }
 }
