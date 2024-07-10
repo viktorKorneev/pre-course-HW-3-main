@@ -362,3 +362,18 @@ small {
         align-self: center;
     }
 }
+
+
+/* ================ Адаптив для мобилок ================ */
+
+  @media screen and (max-width: 576px) {
+    .menu {
+        display: none;
+    }
+
+    .menu-icon {
+        display: block;
+    }
+}
+
+    
