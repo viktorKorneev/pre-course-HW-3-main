@@ -331,6 +331,7 @@ small {
 @media  screen and (max-width:1400px) {
     .main-wrapper {
         flex-direction: column;
+        min-height: auto;
     }
 
     .main-info {
