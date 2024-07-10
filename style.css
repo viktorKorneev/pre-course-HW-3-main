@@ -338,4 +338,8 @@ small {
     .table {
         width: 940px;
     }
+
+    .table-wrapper {
+        overflow-x: auto;
+    }
 }
