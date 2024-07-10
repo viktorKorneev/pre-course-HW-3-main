@@ -341,5 +341,6 @@ small {
 
     .table-wrapper {
         overflow-x: auto;
+        width: 100%;
     }
 }
