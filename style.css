@@ -59,7 +59,7 @@ button:hover {
     padding: 0 15px;
     margin-left: auto;
     margin-right: auto;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 /* ================ Стили для Хедера ================ */
