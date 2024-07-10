@@ -318,3 +318,11 @@ small {
     line-height: 22px;
     color:#FFF;
 }
+
+/* =========== Адаптив под планшеты ============ */
+
+@media  screen and (max-width:1400px) {
+    .main-wrapper {
+        flex-direction: column;
+    }
+}
