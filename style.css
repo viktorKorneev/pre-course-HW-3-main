@@ -366,13 +366,23 @@ small {
 
 /* ================ Адаптив для мобилок ================ */
 
-  @media screen and (max-width: 576px) {
+  
+@media screen and (max-width: 576px) {
     .menu {
         display: none;
     }
 
     .menu-icon {
         display: block;
+    }
+
+    .main-info {
+        margin: 60px 0;
+    }
+
+    .main-title {
+        font-size: 52px;
+        line-height: 60px;
     }
 }
 
